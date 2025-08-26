@@ -85,8 +85,12 @@ ISW_Grupo2_2025_4k1
 | TP      | Trabajo Práctico                       |
 | TIG     | Trabajo de Investigación Grupal        |
 | ext     | Extensión del archivo                  |
-| Temp    | Template                                |
-| Biblio  | Bibliografía                            |
+| Temp    | Template                               |
+| B       | Bibliografía                           |
+| IngSw   | Ingenieria de Software                 |
+| LyK     | LeanYKanban                            |
+| PensAgil| Pensamiento ágil                       |
+| TestSw  | Testing de Software                    |
 | Parc    | Parcial                                |
 
 ### Reglas de Nombrado y Ubicaciones
