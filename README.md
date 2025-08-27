@@ -84,7 +84,7 @@ Las líneas base se identificarán con la siguiente etiqueta: LB-G2-\<NroLineaBa
 
 ### Historial de cambios
 | Línea Base                                    | Fecha                                                        |   Descripción |
-|:----------------------------------------|:--------------------------------------------------------------------------|------------:|
+|:----------------------------------------|:--------------------------------------------------------------------------|:------------|
 | LB-G2-X                           |       dd/mm/yyyy            |         Entrega de TPX - <Descripción>|
 
 ## Items de Configuración 
