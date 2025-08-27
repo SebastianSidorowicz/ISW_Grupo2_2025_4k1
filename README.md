@@ -107,7 +107,7 @@ ISW_Grupo2_2025_4k1
 | PresentacionesDeClases                  | ISW_\<NúmeroDePresentación>_<NombreDePresentación>.\<ext>                  |         nan |
 | Resumenes                               | ISW_Resumen_Parc\<NroParcial>_\<Año>.\<ext>                                 |         nan |
 |                                         | ISW\_ResumenCompleto\_<Año>.\<ext>                                        |         nan |
-| TrabajosPracticos                       | ISW_TP_\<NumeroTP>_.\<ext>                                                 |         nan |
+| TrabajosPracticos                       | ISW_TP_\<NumeroTP>.\<ext>                                                 |         nan |
 | TrabajoDeInvestigacion                  | ISW_TIG_\<NombreTrabajoInvestigacionGrupal>_\<Curso>.\<ext>                 |         nan |
 
 ### Listado de Items de Configuracion
