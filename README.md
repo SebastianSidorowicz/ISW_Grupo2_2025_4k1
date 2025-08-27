@@ -97,7 +97,7 @@ ISW_Grupo2_2025_4k1
 
 | Ítem                                    | Regla de Nombrado                                                         |   Ubicación |
 |:----------------------------------------|:--------------------------------------------------------------------------|------------:|
-| Bibliografía                            | ISW_B_\<NombreCarpeta>\<NombreArchivo>.pdf                                              |         nan |
+| Bibliografía                            | ISW_B_\<NombreCarpeta>_\<NombreLibro>.pdf                                              |         nan |
 | CasosDeEstudio                          | ISW_CDE_\<NombreArchivo>_\<Año>.\<ext>                                      |         nan |
 | Clases Grabadas                         | ISW_Links_ClasesGrabadas_\<Curso>_\<Año>.\<ext>                             |         nan |
 | MatrerialesAdicionales                  | ISW_MA_\<NombreArchivo>.\<ext>                                             |         nan |
