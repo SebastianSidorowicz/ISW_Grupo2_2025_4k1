@@ -2,7 +2,7 @@
 
 ## Información General
 Repositorio del Grupo N°2 con los contenidos desarrollados en la materia “Ingeniería y Calidad de Software” en la Universidad Tecnológica Nacional, Facultad Regional Córdoba.
-El repositorio estará estructurado a base de directorios y contenidos - con su nomenclatura -, para un trabajo colaborativo estratégico y organizado.
+El repositorio estará estructurado a base de directorios y contenidos - con su nomenclatura "PascalCase", para un trabajo colaborativo estratégico y organizado.
 
 
 ## Integrantes
@@ -106,11 +106,13 @@ Las líneas base se identificarán con la siguiente etiqueta: LB-G2-\<NroLineaBa
 | PensAgil| Pensamiento ágil                       |
 | TestSw  | Testing de Software                    |
 | Parc    | Parcial                                |
+| G2      | Grupo 2                                |
+| LB      | Linea Base                             |
 
 ### Reglas de Nombrado y Ubicaciones
 
 | Ítem                                    | Regla de Nombrado                                                         |   Ubicación |
-|:----------------------------------------|:--------------------------------------------------------------------------|------------:|
+|:----------------------------------------|:--------------------------------------------------------------------------|:------------|
 | Bibliografía                            | ISW_B_\<NombreCarpeta>_\<NombreLibro>.pdf                  |         ISW_Grupo2_2025_4k1/Bibliografia/\<Tema>|
 | CasosDeEstudio                          | ISW_CDE_\<NombreArchivo>_\<Año>.\<ext>                       | ISW_Grupo2_2025_4k1/CasosDeEstudio|
 | Clases Grabadas                         | ISW_Links_ClasesGrabadas_\<Curso>_\<Año>.\<ext>                             |         ISW_Grupo2_2025_4k1/ClasesGrabadas |
