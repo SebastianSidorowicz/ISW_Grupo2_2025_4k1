@@ -123,7 +123,7 @@ Las líneas base se identificarán con la siguiente etiqueta: LB-G2-\<NroLineaBa
 | PresentacionesDeClases                  | ISW_\<NúmeroDePresentación>_<NombreDePresentación>.\<ext>                  |         ISW_Grupo2_2025_4k1/PresentacionesDeClases |
 | Resumenes                               | ISW_Resumen_Parc\<NroParcial>_\<Autor>\_<Año>.\<ext>                                 |         ISW_Grupo2_2025_4k1/Resumenes |
 |                                         | ISW\_ResumenCompleto\_<Año>.\<ext>                                        |         |
-| TrabajosPracticos                       | ISW_TP_\<NumeroTP>_.\<ext>                                                 |         ISW_Grupo2_2025_4k1/TrabajosPracticos/\<TrabajoPractico> |
+| TrabajosPracticos                       | ISW_TP_\<NumeroTP>.\<ext>                                                 |         ISW_Grupo2_2025_4k1/TrabajosPracticos/\<TrabajoPractico> |
 | TrabajoDeInvestigacion                  | ISW_TIG_\<NombreTrabajoInvestigacionGrupal>_\<Curso>.\<ext>                 |         ISW_Grupo2_2025_4k1/TrabajosDeInvestigacion/\<TrabajoDeInvestigacion> |
 
 ### Listado de Items de Configuracion
