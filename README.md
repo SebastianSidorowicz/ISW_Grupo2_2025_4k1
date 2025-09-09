@@ -53,6 +53,7 @@ ISW_Grupo2_2025_4k1
 │   ├── SCM
 │   └── TestingDeSoftware
 ├── CasosDeEstudio
+│   └── Resoluciones
 ├── ClasesGrabadas
 ├── MaterialClases
 │   ├── MaterialesAdicionales
@@ -60,6 +61,14 @@ ISW_Grupo2_2025_4k1
 ├── PlanificacionDeLaMateria
 ├── PresentacionesDeClases
 ├── Resumenes
+│   ├── Agus
+│   ├── Alan
+│   ├── Ema
+│   ├── Juan
+│   ├── JuanJose
+│   ├── Juli
+│   ├── Seba
+│   └── Vale
 ├── TrabajosDeInvestigacion
 │   ├── TIG_1
 │   └── TIG_2
@@ -114,14 +123,14 @@ Las líneas base se identificarán con la siguiente etiqueta: LB-G2-\<NroLineaBa
 | Ítem                                    | Regla de Nombrado                                                         |   Ubicación |
 |:----------------------------------------|:--------------------------------------------------------------------------|:------------|
 | Bibliografía                            | ISW_B_\<NombreCarpeta>_\<NombreLibro>.pdf                  |         ISW_Grupo2_2025_4k1/Bibliografia/\<Tema>|
-| CasosDeEstudio                          | ISW_CDE_\<NombreArchivo>_\<Año>.\<ext>                       | ISW_Grupo2_2025_4k1/CasosDeEstudio|
+| CasosDeEstudio                          | ISW_CDE_\<NombreArchivo>_\<Año>.\<ext>                       | ISW_Grupo2_2025_4k1/CasosDeEstudio\/Resoluciones|
 | Clases Grabadas                         | ISW_Links_ClasesGrabadas_\<Curso>_\<Año>.\<ext>                             |         ISW_Grupo2_2025_4k1/ClasesGrabadas |
 | MaterialesAdicionales                  | ISW_MA_\<NombreArchivo>.\<ext>                                             |         ISW_Grupo2_2025_4k1/MaterialClases/MaterialesAdicionales |
 | TemplateParaTrabajosPracticosYParciales | ISW_TempParc_\<NroParcial>_<Año>.\<ext>                                    |         ISW_Grupo2_2025_4k1/MaterialClases/TemplateParaTrabajosPracticosYParciales |
 |                                         | ISW_TempTP_\<NombreTemplate>_\<Año>.\<ext>                                  |          |
 | PlanificacionDeLaMateria                | ISW_\<NombreArchivo>.\<ext>                                                |         ISW_Grupo2_2025_4k1/PlanificacionDeLaMateria |
 | PresentacionesDeClases                  | ISW_\<NúmeroDePresentación>_<NombreDePresentación>.\<ext>                  |         ISW_Grupo2_2025_4k1/PresentacionesDeClases |
-| Resumenes                               | ISW_Resumen_Parc\<NroParcial>_\<Autor>\_<Año>.\<ext>                                 |         ISW_Grupo2_2025_4k1/Resumenes |
+| Resumenes                               | ISW_Resumen_Parc\<NroParcial>_\<Autor>\_<Año>.\<ext>                                 |         ISW_Grupo2_2025_4k1/Resumenes/\<SubcarpetaDeMiembro> |
 |                                         | ISW\_ResumenCompleto\_<Año>.\<ext>                                        |         |
 | TrabajosPracticos                       | ISW_TP_\<NumeroTP>.\<ext>                                                 |         ISW_Grupo2_2025_4k1/TrabajosPracticos/\<TrabajoPractico> |
 | TrabajoDeInvestigacion                  | ISW_TIG_\<NombreTrabajoInvestigacionGrupal>_\<Curso>.\<ext>                 |         ISW_Grupo2_2025_4k1/TrabajosDeInvestigacion/\<TrabajoDeInvestigacion> |
@@ -212,7 +221,21 @@ ISW_Grupo2_2025_4k1
 │       ISW_15_RetrospectivasIntroPráctico.pdf
 │
 ├── Resumenes
-│       gitkeep.odt
+│   ├── Agus
+│   │ 
+│   ├── Alan
+│   │ 
+│   ├── Ema
+│   │ 
+│   ├── Juan
+│   │ 
+│   ├── JuanJose
+│   │ 
+│   ├── Juli
+│   │ 
+│   ├── Seba
+|   |
+|   └── Vale
 │
 ├── TrabajosDeInvestigacion
 │   │   ISW_LineamientosParaTrabajosDeInvestigación.pdf
