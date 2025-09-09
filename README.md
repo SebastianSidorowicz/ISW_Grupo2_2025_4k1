@@ -39,7 +39,7 @@ Para poder utilizar este proyecto, sigue los siguientes pasos:
    git clone https://github.com/SebastianSidorowicz/ISW_Grupo2_2025_4k1.git
    ```
 
-4. **Asegúrate de tener instalado Git** en tu computadora para poder usar el sistema de control de versiones.
+4. **Asegurate de tener instalado Git** en tu computadora para poder usar el sistema de control de versiones.
 
 ## Estructura del Repositorio
 
@@ -84,7 +84,7 @@ ISW_Grupo2_2025_4k1
 
 ```
 
-## Linea Base 
+## Línea Base 
   
 ### Criterio de creación
 Se establecerá la Línea de Base del proyecto luego de recibir la devolución (entrega post-corrección) de cada uno de los Trabajos Prácticos - ya sea evaluable o no evaluable- debido a que estos tienen la aprobación (nota) de los clientes (profesores). 
@@ -94,7 +94,7 @@ Las líneas base se identificarán con la siguiente etiqueta: LB-G2-\<NroLineaBa
 ### Historial de cambios
 | Línea Base                                    | Fecha                                                        |   Descripción |
 |:----------------------------------------|:--------------------------------------------------------------------------|:------------|
-| LB-G2-X                           |       dd/mm/yyyy            |         Entrega de TPX - <Descripción>|
+| LB-G2-1                           |       09/09/2025            |         Entrega de TP4 - SCM - Herramientas de SCM (Evaluable) - Se estableció la estructura del repositorio del Grupo número 2, definiendo las bases del espacio de trabajo. |
 
 ## Items de Configuración 
 
